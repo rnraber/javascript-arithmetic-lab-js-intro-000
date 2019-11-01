@@ -23,3 +23,5 @@ function dec(n) {
   n--
   return n
 }
+
+function makeInt('2',10)
